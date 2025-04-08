@@ -27,7 +27,7 @@ o	View department-wise employee listings
 •	Development Environment: VS Code (Recommended)
 🛠 How to Run
 1.	Clone the repository:
-git clone https://github.com/mdabumushaony7/Employee-Management-System.git
+git clone https://github.com/mdabumusharony7/Employee-Management-System-.git
 2.	Navigate to the project directory:
 cd Employee-Management-System
 3.	Compile the program:
